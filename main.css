@@ -5,9 +5,26 @@ body {
 h1 {
     color: #ffffff;
     font-family: 'Montserrat', serif;
-    font-size: 48px;
+    font-weight: 800;
+    font-size: 8em;
+}
+
+h3 {
+    color: #ffffff;
+    font-family: 'Montserrat', serif;
+    font-weight: 800;
+    font-size: 2em;
+    font-style: italic;
 }
 
 #title {
-   align-content: center; 
+    margin: auto;
+    padding-top: 10%;
+    text-align: center;
+}
+
+#subtitle {
+    margin: auto;
+    padding-top: 2%;
+    text-align: center;
 }
