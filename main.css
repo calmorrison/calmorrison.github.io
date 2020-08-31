@@ -6,14 +6,15 @@ h1 {
     color: #ffffff;
     font-family: 'Montserrat', serif;
     font-weight: 800;
-    font-size: 8vw;
+    font-size: calc(24px + 8vw);
+
 }
 
 h3 {
     color: #ffffff;
     font-family: 'Montserrat', serif;
     font-weight: 800;
-    font-size: 2vw;
+    font-size: calc(16px + 1.5vw);
     font-style: italic;
 }
 
